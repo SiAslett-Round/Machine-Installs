@@ -1,0 +1,2 @@
+# Setup shortcuts to fav commands
+alias ll='ls -l'
